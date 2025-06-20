@@ -16,7 +16,6 @@
 - [tools-up-provider](https://github.com/lukso-network/tools-up-provider): The EIP-1193 compatible provider that allows dApps to function as Mini-Apps on Universal Profiles.
 - [LIPs](https://github.com/lukso-network/LIPs): LUKSO Improvement Proposals. Repository for the LUKSO Blockchain Improvement Proposals (LIPs) and LUKSO Standard Proposals (LSP).
 - [lukso-playground](https://github.com/lukso-network/lukso-playground): Code snippets to interact with Universal Profiles and other LSP standards
-- [docs](https://github.com/lukso-network/docs): Technical documentation of the tools 
 - [miniapp-nextjs-template](https://github.com/lukso-network/miniapp-nextjs-template): NextJS template to build Mini-Apps for Universal Profiles.
 
 ## Getting Started & Resources

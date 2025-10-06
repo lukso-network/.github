@@ -24,8 +24,9 @@
 2. [Universal Profiles](https://docs.lukso.tech/standards/accounts/introduction): The next-generation blockchain account standard that combines smart contracts with digital identities, enabling users to own a universal account for all their digital assets and interactions.
 3. [LUKSO Standard Proposals](https://docs.lukso.tech/standards/introduction): Discover the LSPs, the standards that represent the foundation of LUKSO's ecosystem. 
 4. [Ecosystem](https://lukso.network/ecosystem): Explore next generation applications built on LUKSO
-5. [Mini-Apps](https://docs.lukso.tech/learn/mini-apps/connect-upprovider): Mini-Apps are dApps that run in an iframe of a parent page that hosts them.
-6. [Grants](https://lukso.network/developer-grants): Supporting developers and founders building impactful projects with LUKSO standards and Universal Profiles.
+5. [ERC725 Tools](https://erc725-inspect.lukso.tech/?network=mainnet): Debugging tools to interact with ERC725 smart contracts
+6. [Mini-Apps](https://docs.lukso.tech/learn/mini-apps/connect-upprovider): Mini-Apps are dApps that run in an iframe of a parent page that hosts them.
+7. [Grants](https://lukso.network/developer-grants): Supporting developers and founders building impactful projects with LUKSO standards and Universal Profiles.
 
 ## Stay Connected
 

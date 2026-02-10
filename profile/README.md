@@ -9,7 +9,6 @@
 ## Explore Popular Repositories
 
 - [lsp-smart-contracts](https://github.com/lukso-network/lsp-smart-contracts): The reference smart contract implementation in Solidity for the LUKSO LSP Standards.
-- [erc725.js](https://github.com/ERC725Alliance/erc725.js/): npm package that allows you to retrieve, encode and decode data easily from ERC725 Smart Contracts
 - [docs](https://github.com/lukso-network/docs): Technical documentation of the tools 
 - [LIPs](https://github.com/lukso-network/LIPs): LUKSO Improvement Proposals. Repository for the LUKSO Blockchain Improvement Proposals (LIPs) and LUKSO Standard Proposals (LSP).
 - [lukso-playground](https://github.com/lukso-network/lukso-playground): Code snippets to interact with Universal Profiles and other LSP standards
@@ -19,6 +18,7 @@
 - [LUKSO CLI](https://github.com/lukso-network/tools-lukso-cli): Command line tool to install, manage and set up validators of different clients for the LUKSO Blockchain.
 - [network-configs](https://github.com/lukso-network/network-configs): This repository contains all LUKSO Network blockchain’s configurations.
 - [tools-up-provider](https://github.com/lukso-network/tools-up-provider): The EIP-1193 compatible provider that allows dApps to function as Mini-Apps on Universal Profiles.
+- [erc725.js](https://github.com/ERC725Alliance/erc725.js/): npm package that allows you to retrieve, encode and decode data easily from ERC725 Smart Contracts
 
 ## Getting Started & Resources
 

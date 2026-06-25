@@ -19,6 +19,7 @@
 - [network-configs](https://github.com/lukso-network/network-configs): This repository contains all LUKSO Network blockchain’s configurations.
 - [tools-up-provider](https://github.com/lukso-network/tools-up-provider): The EIP-1193 compatible provider that allows dApps to function as Mini-Apps on Universal Profiles.
 - [erc725.js](https://github.com/ERC725Alliance/erc725.js/): npm package that allows you to retrieve, encode and decode data easily from ERC725 Smart Contracts
+- [LSP Factory](https://github.com/lukso-network/tools-lsp-factory): MVM package that allows you to deploy universal profiles on different EVM chains 
 
 ## Getting Started & Resources
 
